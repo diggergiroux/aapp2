@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "aapp2db4c484a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
